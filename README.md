@@ -1,0 +1,2 @@
+# 07-Time-Series_Analysis_of_Global_Temperature_Data_Spring_2026-Souparna-Adhikari
+2026 Spring internship
